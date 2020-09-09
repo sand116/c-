@@ -1,0 +1,4 @@
+﻿  picnic.cpp
+c:\users\jingyeong\desktop\c++\algorithm\bruteforce\bruteforce\picnic.cpp(8): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jingyeong\desktop\c++\algorithm\bruteforce\bruteforce\picnic.cpp(19): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  bruteforce.vcxproj -> C:\Users\jingyeong\Desktop\c++\algorithm\bruteforce\Debug\bruteforce.exe
